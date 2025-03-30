@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ffdc7f;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" x="-201.43" y="11.57" width="176.87" height="176.87"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-3" d="M-113,11.57c-48.84,0-88.43,39.59-88.43,88.43s39.59,88.43,88.43,88.43S-24.57,148.84-24.57,100-64.16,11.57-113,11.57Z"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-3" x="11.57" y="11.57" width="176.87" height="176.87"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-3" x="11.57" y="11.57" width="176.87" height="176.87"/>
+    </clipPath>
+  </defs>
+  <g id="Ilustración_237">
+    <g class="cls-7">
+      <g class="cls-4">
+        <rect class="cls-2" x="-233.8" y="-20.8" width="241.6" height="241.6" transform="translate(-65.14 -43.1) rotate(-30)"/>
+      </g>
+    </g>
+  </g>
+  <g id="Ilustración_241">
+    <g class="cls-6">
+      <g class="cls-5">
+        <path class="cls-2" d="M100,188.43h0c-48.84,0-88.43-39.59-88.43-88.43S51.16,11.57,100,11.57s88.43,39.59,88.43,88.43-39.59,88.43-88.43,88.43"/>
+        <path class="cls-1" d="M88.69,139.51h18.07v-45.24h12.6l1.34-15.15h-13.95v-8.63c0-3.57.72-4.98,4.17-4.98h9.78v-15.72h-12.51c-13.44,0-19.5,5.92-19.5,17.25v12.08h-9.4v15.34h9.4v45.05Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

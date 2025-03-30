@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #227b94;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        filter: url(#drop-shadow-2);
+        stroke: #ffdc7f;
+        stroke-width: 4px;
+      }
+    </style>
+    <filter id="drop-shadow-2" x="3.88" y="4.14" width="256.32" height="255.84" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#dbdbdb" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-2" cx="125" cy="125" r="110.72"/>
+  <g>
+    <rect class="cls-1" x="76.12" y="163.69" width="98.67" height="11.87"/>
+    <rect class="cls-1" x="73.68" y="135.2" width="28.9" height="11.87" transform="translate(-53.01 229.26) rotate(-90)"/>
+    <rect class="cls-1" x="90.53" y="126.99" width="45.32" height="11.87" transform="translate(-19.73 246.11) rotate(-90)"/>
+    <rect class="cls-1" x="134" y="120.86" width="57.59" height="11.87" transform="translate(36 289.58) rotate(-90)"/>
+    <rect class="cls-1" x="119.5" y="131.43" width="36.45" height="11.87" transform="translate(.37 275.09) rotate(-90)"/>
+    <line class="cls-1" x1="108.22" y1="93.77" x2="93.08" y2="103.69"/>
+    <line class="cls-1" x1="158.23" y1="82.25" x2="142.29" y2="95.58"/>
+    <line class="cls-1" x1="132.15" y1="97.37" x2="118.76" y2="92.53"/>
+    <circle class="cls-1" cx="113.19" cy="90.51" r="5.93"/>
+    <circle class="cls-1" cx="137.73" cy="99.39" r="5.93"/>
+    <circle class="cls-1" cx="162.79" cy="78.44" r="5.93"/>
+    <circle class="cls-1" cx="88.13" cy="106.93" r="5.93"/>
+  </g>
+</svg>

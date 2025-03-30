@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #227b94;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        filter: url(#drop-shadow-2);
+        stroke: #ffdc7f;
+        stroke-width: 4px;
+      }
+    </style>
+    <filter id="drop-shadow-2" x="3.88" y="4.06" width="256.32" height="256.32" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#dbdbdb" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-2" cx="125" cy="125" r="110.72"/>
+  <g>
+    <g>
+      <line class="cls-1" x1="158.54" y1="132.82" x2="158.54" y2="102.35"/>
+      <path class="cls-1" d="M74.26,102.35v48.34c0,3.17,2.56,5.73,5.73,5.73h48.6"/>
+      <path class="cls-1" d="M78.21,83.41h76.37c2.18,0,3.96,1.77,3.96,3.96v14.98h-84.28v-14.98c0-2.18,1.77-3.96,3.96-3.96Z"/>
+      <line class="cls-1" x1="86.38" y1="91.32" x2="86.38" y2="73.2"/>
+      <line class="cls-1" x1="97.95" y1="91.32" x2="97.95" y2="73.2"/>
+      <line class="cls-1" x1="110.4" y1="91.32" x2="110.4" y2="73.2"/>
+      <line class="cls-1" x1="121.97" y1="91.32" x2="121.97" y2="73.2"/>
+      <line class="cls-1" x1="134.43" y1="91.32" x2="134.43" y2="73.2"/>
+      <line class="cls-1" x1="145.99" y1="91.32" x2="145.99" y2="73.2"/>
+      <rect class="cls-1" x="86.05" y="113.22" width="12.47" height="12.47"/>
+      <rect class="cls-1" x="110.47" y="113.22" width="12.47" height="12.47"/>
+      <rect class="cls-1" x="133.68" y="113.22" width="12.47" height="12.47"/>
+      <rect class="cls-1" x="86.05" y="134.3" width="12.47" height="12.47"/>
+      <rect class="cls-1" x="110.47" y="134.3" width="12.47" height="12.47"/>
+    </g>
+    <g>
+      <circle class="cls-1" cx="150.51" cy="153.44" r="22.12"/>
+      <polyline class="cls-1" points="160.87 148.69 148.04 160.34 141.51 153.16"/>
+    </g>
+  </g>
+</svg>

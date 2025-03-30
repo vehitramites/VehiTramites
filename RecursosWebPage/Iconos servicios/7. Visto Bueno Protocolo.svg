@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #227b94;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        filter: url(#drop-shadow-2);
+        stroke: #ffdc7f;
+        stroke-width: 4px;
+      }
+    </style>
+    <filter id="drop-shadow-2" x="4.04" y="4.06" width="256.32" height="256.32" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#dbdbdb" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-2" cx="125" cy="125" r="110.72"/>
+  <g>
+    <path class="cls-1" d="M80.51,150.45l39.99,21.53c1.16.78,2.51,1.12,3.86.97l25.45-2.9c1.16-.13,2.03-.36,3.45-.92l29.84-10.11s-.57-7.44-7.42-6.14l-26.71,2.79"/>
+    <path class="cls-1" d="M81.08,124.82l17.24.83c5.82.28,11.41,2.55,16.03,6.49l12.63,10.8,19.6,9.9s4.01,2.72,2.57,6.69c-1.44,3.97-8.14,1.39-8.14,1.39l-15.84-6.55-14.57-4.06"/>
+    <polyline class="cls-1" points="65.12 116.6 80.51 116.6 80.51 166.16 65.12 166.16"/>
+    <path class="cls-1" d="M132.11,135.73c0,4.87,10.58,8.82,23.64,8.82s23.64-3.95,23.64-8.82"/>
+    <path class="cls-1" d="M178.21,123.3c.76.87,1.18,1.79,1.18,2.76,0,4.87-10.58,8.82-23.64,8.82s-23.64-3.95-23.64-8.82c0-.8.29-1.58.83-2.32"/>
+    <line class="cls-1" x1="132.1" y1="135.73" x2="132.1" y2="126.06"/>
+    <line class="cls-1" x1="179.39" y1="135.73" x2="179.39" y2="126.06"/>
+    <path class="cls-1" d="M132.11,116c0,4.87,10.58,8.82,23.64,8.82s23.64-3.95,23.64-8.82"/>
+    <path class="cls-1" d="M178.31,103.69c.7.83,1.08,1.72,1.08,2.64,0,4.87-10.58,8.82-23.64,8.82s-23.64-3.95-23.64-8.82c0-1.14.58-2.22,1.63-3.22"/>
+    <line class="cls-1" x1="132.1" y1="116" x2="132.1" y2="106.33"/>
+    <line class="cls-1" x1="179.39" y1="116" x2="179.39" y2="106.33"/>
+    <path class="cls-1" d="M132.11,96.09c0,4.87,10.58,8.82,23.64,8.82s23.64-3.95,23.64-8.82"/>
+    <ellipse class="cls-1" cx="155.75" cy="86.43" rx="23.64" ry="8.82"/>
+    <line class="cls-1" x1="132.1" y1="96.09" x2="132.1" y2="86.43"/>
+    <line class="cls-1" x1="179.39" y1="96.09" x2="179.39" y2="86.43"/>
+  </g>
+</svg>

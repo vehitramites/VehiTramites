@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 194">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #ffdc7f;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #78b7d0;
+      }
+
+      .cls-4 {
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" x="1" y="0" width="1192" height="194"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <circle class="cls-1" cx="-321" cy="-316.5" r="289.86"/>
+    </clipPath>
+  </defs>
+  <g class="cls-5">
+    <circle class="cls-4" cx="1136.38" cy="76.33" r="39.48"/>
+    <circle class="cls-4" cx="6.21" cy="46.15" r="40.23"/>
+    <circle class="cls-2" cx="156.7" cy="157.15" r="25.33"/>
+    <circle class="cls-2" cx="1085.72" cy="155.3" r="16.39"/>
+  </g>
+  <circle class="cls-1" cx="-321" cy="-316.5" r="289.86"/>
+</svg>
